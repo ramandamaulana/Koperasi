@@ -1,0 +1,187 @@
+body {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+}
+
+.bg-nav {
+    background-color: #FFEB3B !important;
+    width: 100% !important;
+
+    .navbar-brand {
+        font-size: 24px;
+        color: #1E0E62 !important;
+    }
+
+    .nav-item .nav-link {
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: normal;
+        color: #1E0E62 !important;
+        margin-left: 10px !important;
+    }
+}
+
+.btn-masuk {
+    width: 102.86px;
+    height: 40px;
+    border-radius: 100px;
+    color: #FFFFFF;
+    background-color: #1E0E62;
+}
+
+.btn-kirim {
+    background: #F57F17;
+    border-radius: 100px;
+    width: 92.57px;
+    height: 51.43px;
+    margin-top: 25px;
+}
+
+header {
+    h1 {
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: bold;
+        color: #1E0E62;
+        font-size: 58px;
+        margin-top: 104px;
+    }
+
+    .btn-get-started {
+        margin-top: 52px !important;
+        color: #1E0E62;
+        width: 174px;
+        font-size: 20px;
+        padding: 10px;
+        height: 58px;
+        background: #FFEB3B;
+        border-radius: 100px;
+        margin-bottom: 82px !important;
+    }
+
+}
+
+// Border
+.section-pemberitahuan .border-1 {
+    margin-top: 30px;
+    height: 150px;
+    border-right: 2px solid rgba(21, 20, 57, 0.4) !important;
+}
+
+.section-pemberitahuan .section-detail p {
+    margin-top: 40px;
+    font-family: 'Poppins';
+    font-style: normal;
+}
+
+
+.section-pemberitahuan .oke {
+    margin-top: 30px;
+}
+
+// about
+
+.section-about h1 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 42px;
+    color: #1E0E62;
+    margin-top: 100px;
+}
+
+.section-about p {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    margin-top: 24px !important;
+    color: rgba(21, 20, 57, 0.4);
+}
+
+.card {
+    width: 360px;
+    padding: 20px;
+    margin-right: 10px !important;
+    height: 349.71px;
+}
+
+.section-about .about {
+    margin-top: 65px;
+}
+
+.about h4 {
+    font-size: 22px !important;
+}
+
+.about .info {
+    font-size: 16px !important;
+}
+
+// Section APP
+.section-download {
+    height: 550px;
+    background: linear-gradient(180deg, rgba(255, 235, 59, 0) 0%, #FFEB3B 100%);
+
+}
+
+.section-download .iphone img {
+    height: 300px;
+    margin-top: 17px !important;
+}
+
+.section-download h1 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: bold;
+    color: #1E0E62;
+    font-size: 42px;
+}
+
+iframe {
+    width: 103% !important;
+    margin-left: -30px !important;
+}
+
+.section-form h1 {
+    color: #1E0E62;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 42px;
+}
+
+.section-form h3 {
+    color: #1E0E62;
+}
+
+.section-form p {
+    color: rgba(21, 20, 57, 0.4);
+}
+
+.form-group label {
+    color: #1E0E62;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.section-form .form-group .form-control {
+    border-radius: 10px;
+    height: 50px;
+}
+
+.section-form ul li {
+    color: rgba(21, 20, 57, 0.4);
+
+}
+
+.section-form .contact li {
+    color: #1E0E62;
+}
+
+// 
+/*# sourceMappingURL=style.css.map */
